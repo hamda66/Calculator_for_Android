@@ -1,2 +1,2 @@
-# Calculator_for_Android
-"# Calculator_for_Android" 
+# Calculator for Android Devices
+"# Calculator for Android Devices" 
